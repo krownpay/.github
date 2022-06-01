@@ -1,4 +1,4 @@
-## Hi there, Welcome to KrownPay 👋
+## Hi there, welcome to KrownPay 👋
 
 <!--
 
